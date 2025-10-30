@@ -5,8 +5,8 @@ Repository für das IU-Projektmodul ISEF01 – „Systeme zur Unterstützung von
 
 **Teammitglieder:**  
 - Vivian Scheiring – Projektleiterin  
-- Diana Bischof – Business Analystin (Anforderungsanalystin)  
-- Maria-Magdalena Hommer – Systemarchitektin (Technikverantwortliche)
+- Diana Bischof – Business Analystin   
+- Maria-Magdalena Hommer – Systemarchitektin 
 
 ### Projektziel  
 Konzeption, Bewertung und exemplarische Umsetzung einer Toolintegration zur Unterstützung von Studierenden und Tutoren in Software-Engineering-Fallstudien.  
